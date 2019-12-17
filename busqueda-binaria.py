@@ -13,6 +13,4 @@ def busquedaBinaria (lista, valor):
 
 listaprueba = [1,2,3,6,8,9,7,15,22,63,77,89,99]
 
-valor = 15
-
 print(busquedaBinaria(listaprueba, 99))
